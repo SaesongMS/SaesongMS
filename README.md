@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="720" alt="Cyberpunk GIF" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/">](https://valenberg.tumblr.com/)
+[<img width="540" alt="Cyberpunk GIF" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/">](https://valenberg.tumblr.com/)
 
 </div>
 
