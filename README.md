@@ -25,7 +25,6 @@
 [<img width="40" height="40" alt="PHP" src="https://api.iconify.design/devicon:php.svg" style="padding: 0 20px 16px 0"/>](https://www.php.net "PHP")
 
 ### Technologies
-[<img align="left" width="40" height="40" alt="ASP.Net" src="https://api.iconify.design/devicon:dot-net.svg" style="padding: 0 20px 16px 0"/>](https://learn.microsoft.com/en-us/dotnet/ "ASP.Net")
 [<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
 [<img align="left" width="40" height="40" alt="Docker" src="https://api.iconify.design/logos:docker-icon.svg" style="padding: 0 20px 16px 0">](https://www.docker.com "Docker")
